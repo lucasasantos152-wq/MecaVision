@@ -1,7 +1,0 @@
-# Dependências Python essenciais para o MecaVision (PC)
-# Recomendado: Python 3.7 a 3.9
-opencv-python>=4.5.5.64
-pyserial>=3.5
-numpy>=1.21.6
-RubikTwoPhase>=1.1.1
-Pillow>=9.0.0
